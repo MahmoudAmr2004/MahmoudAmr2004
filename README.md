@@ -28,5 +28,5 @@ My personal portfolio website and a JavaScript multiple-choice quiz app with dif
 
 ## 📫 Contact
 
-- LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/mahmoud-amr-738690315/)
+- LinkedIn: https://www.linkedin.com/in/mahmoud-amr-738690315
 - Email: mahmoudamr.me@gmail.com
