@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud Amr 👋
+# Hi, I'm Mahmoud Amr 
 
 **AI Engineer | Computer Science (Artificial Intelligence) graduate**
 📍 Sharjah, UAE · 🎓 B.Sc. Computer Science (AI), The British University in Dubai, 2026
@@ -28,5 +28,5 @@ My personal portfolio website and a JavaScript multiple-choice quiz app with dif
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your email address]
+- LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/mahmoud-amr-738690315/)
+- Email: mahmoudamr.me@gmail.com
